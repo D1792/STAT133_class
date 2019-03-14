@@ -17,6 +17,8 @@ Daiki Ina
 | Born        |    IL, 1984    |
 | Height      |    6 ft 6 in   |
 
+Andre Tyler Iguodalais an American professional basketball player for the Golden State Warriors of the National Basketball Association. The swingman was an NBA All-Star in 2012 and has been named to the NBA All-Defensive Team twice. Iguodala won an NBA championship with the Warriors in 2015, when he was named the NBA Finals Most Valuable Player. Iguodala helped the Warriors win two more championships in 2017 and 2018. He was also a member of the United States national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.
+
 <img src="../images/greendr01.jpg" width="120" />
 
 | Description |      Value     |
@@ -25,6 +27,8 @@ Daiki Ina
 | Position    |       PF       |
 | Born        |    MI, 1990    |
 | Height      |    6 ft 7 in   |
+
+Draymond Jamal Green Sr. is an American professional basketball player for the Golden State Warriors of the National Basketball Association. Green, who plays primarily at the power forward position, is a three-time NBA champion and a three-time NBA All-Star. In 2017, he won the NBA Defensive Player of the Year.
 
 <img src="../images/duranke01.jpg" width="120" />
 
@@ -35,6 +39,8 @@ Daiki Ina
 | Born        |  D.C., 1988  |
 | Height      |   6 ft 9 in  |
 
+Kevin Wayne Durant is an American professional basketball player for the Golden State Warriors of the National Basketball Association. He played one season of college basketball for the University of Texas, and was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft. He played nine seasons in Oklahoma City before signing with Golden State in 2016, winning back-to-back championships in 2017 and 2018.
+
 <img src="../images/thompkl01.jpg" width="120" />
 
 | Description |     Value     |
@@ -44,6 +50,8 @@ Daiki Ina
 | Born        |    CA, 1990   |
 | Height      |   6 ft 7 in   |
 
+Klay Alexander Thompson is an American professional basketball player for the Golden State Warriors of the National Basketball Association. He is credited as one of the greatest shooters in NBA history. He is a five-time NBA All-Star, a two-time All-NBA Third Team honoree, and a three-time NBA champion.
+
 <img src="../images/curryst01.jpg" width="120" />
 
 | Description |     Value     |
@@ -52,6 +60,8 @@ Daiki Ina
 | Position    |       PG      |
 | Born        |    OH, 1988   |
 | Height      |   6 ft 3 in   |
+
+Wardell Stephen Curry II is an American professional basketball player for the Golden State Warriors of the National Basketball Association. A six-time NBA All-Star, he has been named the NBA Most Valuable Player twice and won three NBA championships with the Warriors. Many players and analysts have called him the greatest shooter in NBA history. He is credited with revolutionizing the game of basketball by inspiring teams to regularly employ the three-point shot as part of their winning strategy
 
 For the narrative part, we intuitively decided to foucus on Drayond Green.
 
@@ -115,3 +125,6 @@ I really hope Draymond Green can surprise us with improving shooting skills in t
 
 > -   Wikipedia
 > -   Basketball-reference.com
+> -   FANSIDED
+> -   SBNATION
+> -   San Francisco Chronicle
