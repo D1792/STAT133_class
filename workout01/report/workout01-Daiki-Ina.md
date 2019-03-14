@@ -53,7 +53,7 @@ Daiki Ina
 | Born        |    OH, 1988   |
 | Height      |   6 ft 3 in   |
 
-For the narrative part, we intuitively decided to foucuse on Drayond Green.
+For the narrative part, we intuitively decided to foucus on Drayond Green.
 
 2) Data
 -------
@@ -93,7 +93,7 @@ For the narrative part, we intuitively decided to foucuse on Drayond Green.
 
 > -   This table shows overall Field Goal effective shooting percentage by player.
 
-3) Natattive
+3) Narrative
 ------------
 
 Draymond Green, the Power Forward of Golden State Warriors, was eclipsed in his shooting performance by his teammate in the season of 2016. Don't get me wrong. Green is an extraordinary black player, but his shooting skills seem indeed questionable.
